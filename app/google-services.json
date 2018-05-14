@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "384044252587",
+    "firebase_url": "https://notebook180507.firebaseio.com",
+    "project_id": "notebook180507",
+    "storage_bucket": "notebook180507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384044252587:android:8f40be1416028ea9",
+        "android_client_info": {
+          "package_name": "com.htsinh.notebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384044252587-972kl77etbjafh5plr521qvlom3285r7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.htsinh.notebook",
+            "certificate_hash": "0eaa7f0989f5b2197cd210916abf24a7c330131c"
+          }
+        },
+        {
+          "client_id": "384044252587-edgj05l8iv3vokkkt3npnvvmbee4mhnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzJZXEqx2-_NQyyGEvbwae-SZfb3mb0YI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384044252587-edgj05l8iv3vokkkt3npnvvmbee4mhnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
